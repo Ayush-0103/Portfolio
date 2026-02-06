@@ -1,7 +1,7 @@
 # Ayush Saxena – Portfolio Website
 
 Live Demo:
-https://id-preview--7364f1cc-4f3a-4660-be38-f2fa1c36c2a3.lovable.app
+https://portfoliowebsite-ten-steel.vercel.app/
 
 
 ## Overview
