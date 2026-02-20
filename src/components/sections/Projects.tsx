@@ -46,6 +46,17 @@ const projectsData = [
     gradient: "from-blue-500 to-cyan-600",
     liveUrl: "https://event-registration-system-4ejh.vercel.app/",
   },
+  {
+    id: 4,
+    title: "AI Loan Eligibility Predictor",
+    shortDescription: "AI-powered loan eligibility prediction system",
+    fullDescription:
+      "An AI-powered loan eligibility prediction system that analyzes user data to provide accurate loan eligibility assessments. Built with machine learning algorithms and modern web technologies.",
+    technologies: ["React", "Flask", "scikit-learn", "SHAP", "OpenAI API", "TailwindCSS", "Vercel/Render"],
+    icon: QrCode,
+    gradient: "from-blue-500 to-cyan-600",
+    liveUrl: "https://loan-iota-three.vercel.app/",
+  },
 ];
 
 function ProjectCard({
